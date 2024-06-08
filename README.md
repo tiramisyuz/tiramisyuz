@@ -9,7 +9,7 @@
 </tr></table>
 <details id="ghusrcss">
   <summary>Github User CSS</summary>
-<code>
+<code id="ghusrcss-code">
 body {
   background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
 }
