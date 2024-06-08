@@ -6,5 +6,5 @@
   <a href="https://tiramisyuz.github.io/">This is my site</a>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('[https://files.catbox.moe/wmw3ap.gif](https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif)');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');]{x0000}$}
 ```
