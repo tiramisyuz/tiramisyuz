@@ -11,7 +11,10 @@
   <summary>Github User CSS</summary>
 <code>
 body {
- background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
+  background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
+}
+p, header, a {
+  filter: shadow(1px, 1px, 5px, red);
 }
 </code>
 </details>
