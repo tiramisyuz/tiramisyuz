@@ -14,7 +14,7 @@ body {
   background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
 }
 p, header, a {
-  filter: shadow(1px, 1px, 5px, red);
+  filter: drop-shadow(2px 2px 1px #262626);
 }
 </code>
 </details>
