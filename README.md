@@ -11,7 +11,7 @@
   <summary>Github User CSS</summary>
 <code>
 body {
-background-color: red;
+ background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
 }
 </code>
 </details>
