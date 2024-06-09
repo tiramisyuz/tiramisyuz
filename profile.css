@@ -1,0 +1,10 @@
+/*
+ghcss-ext CSS
+https://github.com/tiramisyuz/ghcss-ext
+*/
+body {
+  background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
+}
+p, header, a, span {
+  filter: drop-shadow(2px 2px 1px #262626);
+}
