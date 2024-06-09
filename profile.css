@@ -2,9 +2,37 @@
 ghcss-ext CSS
 https://github.com/tiramisyuz/ghcss-ext
 */
-body {
-  background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/meow.gif');
+/*body {
+  background: url('https://github.com/ayunami2000/ayunami2000/raw/master/bg.svg');
+  align-content: center;
+  background-repeat: repeat;
+  background-size: 100% 100%;
+}*/
+html {
+  background: black;
 }
-p, header, a, span {
-  filter: drop-shadow(2px 2px 1px #262626);
+
+body {
+  background: url('https://github.com/tiramisyuz/tiramisyuz/raw/master/bg.svg');
+  align-content: center;
+  background-repeat: repeat;
+  background-size: 100% 100%;
+}
+
+.Box-body {
+  background-color: black;
+}
+
+td {
+  background-color: black;
+  border: none;
+}
+
+tr {
+  background-color: black;
+  border: none;
+}
+
+img {
+  background-color: transparent;
 }
