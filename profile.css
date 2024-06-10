@@ -29,6 +29,6 @@ img {
 
 </style>
 <script>
-alert("hi");
+console.log("hi");
 </script>
 <style>
