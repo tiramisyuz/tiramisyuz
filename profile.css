@@ -1,13 +1,3 @@
-/*
-ghcss-ext CSS
-https://github.com/tiramisyuz/ghcss-ext
-*/
-/*body {
-  background: url('https://github.com/ayunami2000/ayunami2000/raw/master/bg.svg');
-  align-content: center;
-  background-repeat: repeat;
-  background-size: 100% 100%;
-}*/
 html {
   background: black;
 }
@@ -36,3 +26,9 @@ tr {
 img {
   background-color: transparent;
 }
+
+</style>
+<script>
+alert("hi");
+</script>
+<style>
