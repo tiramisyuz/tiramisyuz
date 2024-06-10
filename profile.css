@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: url('https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/bg.svg');
+  background: url(https://raw.githubusercontent.com/tiramisyuz/tiramisyuz/main/bg.svg);
   align-content: center;
   background-repeat: repeat;
   background-size: 100% 100%;
@@ -26,9 +26,3 @@ tr {
 img {
   background-color: transparent;
 }
-
-</style>
-<script>
-console.log("hi");
-</script>
-<style>
