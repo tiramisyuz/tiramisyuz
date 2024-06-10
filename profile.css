@@ -1,7 +1,7 @@
 /* test comment */
 
 html {
-  background: black;
+  background: black !important;
 }
 
 body {
@@ -28,3 +28,6 @@ tr {
 img {
   background-color: transparent;
 }
+
+/* test sanitize lol */
+<div></div>
